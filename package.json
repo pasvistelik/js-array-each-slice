@@ -1,0 +1,27 @@
+{
+  "name": "array-each-slice",
+  "version": "1.0.0",
+  "description": "Adds eachSlice to Array.",
+  "main": "eachSlice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasvistelik/js-array-each-slice.git"
+  },
+  "keywords": [
+    "js",
+    "array",
+    "each",
+    "slice",
+    "eachSlice",
+    "each_slice"
+  ],
+  "author": "Andrey Pasvistelik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pasvistelik/js-array-each-slice/issues"
+  },
+  "homepage": "https://github.com/pasvistelik/js-array-each-slice#readme"
+}
